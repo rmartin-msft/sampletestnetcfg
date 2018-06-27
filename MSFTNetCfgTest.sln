@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MSFTNetCfgTest", "MSFTNetCfgTest\MSFTNetCfgTest.vcxproj", "{5C8FF84B-ECF1-40E8-9A9A-DA0925847CA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C8FF84B-ECF1-40E8-9A9A-DA0925847CA6}.Debug|x64.ActiveCfg = Debug|x64
+		{5C8FF84B-ECF1-40E8-9A9A-DA0925847CA6}.Debug|x64.Build.0 = Debug|x64
+		{5C8FF84B-ECF1-40E8-9A9A-DA0925847CA6}.Debug|x86.ActiveCfg = Debug|Win32
+		{5C8FF84B-ECF1-40E8-9A9A-DA0925847CA6}.Debug|x86.Build.0 = Debug|Win32
+		{5C8FF84B-ECF1-40E8-9A9A-DA0925847CA6}.Release|x64.ActiveCfg = Release|x64
+		{5C8FF84B-ECF1-40E8-9A9A-DA0925847CA6}.Release|x64.Build.0 = Release|x64
+		{5C8FF84B-ECF1-40E8-9A9A-DA0925847CA6}.Release|x86.ActiveCfg = Release|Win32
+		{5C8FF84B-ECF1-40E8-9A9A-DA0925847CA6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA0B3601-BDD9-486A-8B37-ECF0F23B4C80}
+	EndGlobalSection
+EndGlobal
